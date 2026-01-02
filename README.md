@@ -1,4 +1,4 @@
-# advanced-sql-sales-analysis
+# Advanced-Sql-Sales-Analysis
 
 This project focuses on advanced SQL analysis techniques to analyze sales data. 
 It demonstrates the use of JOINs, subqueries, CTEs, window functions, and aggregations 
